@@ -1,6 +1,7 @@
 # Google News RSS Aggregator and Parser
 
 Colin Murphy, Dan Sigmans, Josiah Kupier, Matt Merenich
+
 DSCI-511
 Professor Jake Williams
 README.md
